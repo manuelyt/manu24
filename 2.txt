@@ -1,4 +1,4 @@
-a El volumen de la unidad C es Acer-dd
+b El volumen de la unidad C es Acer-dd
  El n£mero de serie del volumen es: A202-2F36
 
  Directorio de C:\manu\00git\kk22\manu24
