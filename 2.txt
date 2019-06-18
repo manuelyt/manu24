@@ -1,0 +1,10 @@
+ El volumen de la unidad C es Acer-dd
+ El n£mero de serie del volumen es: A202-2F36
+
+ Directorio de C:\manu\00git\kk22\manu24
+
+18/06/2019  16:07    <DIR>          .
+18/06/2019  16:07    <DIR>          ..
+18/06/2019  16:07                 0 2.txt
+               1 archivos              0 bytes
+               2 dirs  350.791.757.824 bytes libres
